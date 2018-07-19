@@ -1,0 +1,10 @@
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Tony Rojas\Source\LoadingJson.OpenDataGovPuebla.TARG\ConsoleApp\obj\Debug\ConsoleApp.pdb
